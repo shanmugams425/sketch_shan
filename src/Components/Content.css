@@ -1,0 +1,15 @@
+
+
+.bg-image{
+    background-image: url("../assests/background.png");
+    background-color: #cccccc;
+    
+}
+
+.text-color{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 500;
+}
+
+
